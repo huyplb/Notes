@@ -1,0 +1,2010 @@
+[￼   
+   {￼
+      "Name": "Aland Islands",
+      "Alpha2": "AX",
+      "Alpha3": "ALA",
+      "PhoneCode": "358",
+      "Currency": "EURO",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Afghanistan",
+      "Alpha2": "AF",
+      "Alpha3": "AFG",
+      "PhoneCode": "93",
+      "Currency": "Afghani",
+      "CurrencyCode": "AFN"
+   },   
+   {￼
+      "Name": "Albania",
+      "Alpha2": "AL",
+      "Alpha3": "ALB",
+      "PhoneCode": "355",
+      "Currency": "Lek",
+      "CurrencyCode": "ALL"
+   },   
+   {￼
+      "Name": "Algeria",
+      "Alpha2": "DZ",
+      "Alpha3": "DZA",
+      "PhoneCode": "213",
+      "Currency": "Algerian Dinar",
+      "CurrencyCode": "DZD"
+   },   
+   {￼
+      "Name": "American Samoa",
+      "Alpha2": "AS",
+      "Alpha3": "ASM",
+      "PhoneCode": "1-684",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Andorra",
+      "Alpha2": "AD",
+      "Alpha3": "AND",
+      "PhoneCode": "376",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Angola",
+      "Alpha2": "AO",
+      "Alpha3": "AGO",
+      "PhoneCode": "244",
+      "Currency": "Kwanza",
+      "CurrencyCode": "AOA"
+   },   
+   {￼
+      "Name": "Anguilla",
+      "Alpha2": "AI",
+      "Alpha3": "AIA",
+      "PhoneCode": "1-264",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Antarctica ",
+      "Alpha2": "AQ",
+      "Alpha3": "ATA",
+      "PhoneCode": "672",
+      "Currency": "",
+      "CurrencyCode": ""
+   },   
+   {￼
+      "Name": "Antigua and Barbuda",
+      "Alpha2": "AG",
+      "Alpha3": "ATG",
+      "PhoneCode": "1-268",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Argentina",
+      "Alpha2": "AR",
+      "Alpha3": "ARG",
+      "PhoneCode": "54",
+      "Currency": "Argentine Peso",
+      "CurrencyCode": "ARS"
+   },   
+   {￼
+      "Name": "Armenia",
+      "Alpha2": "AM",
+      "Alpha3": "ARM",
+      "PhoneCode": "374",
+      "Currency": "Armenian Dram",
+      "CurrencyCode": "AMD"
+   },   
+   {￼
+      "Name": "Aruba",
+      "Alpha2": "AW",
+      "Alpha3": "ABW",
+      "PhoneCode": "297",
+      "Currency": "Aruban Florin",
+      "CurrencyCode": "AWG"
+   },   
+   {￼
+      "Name": "Australia",
+      "Alpha2": "AU",
+      "Alpha3": "AUS",
+      "PhoneCode": "61",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Austria",
+      "Alpha2": "AT",
+      "Alpha3": "AUT",
+      "PhoneCode": "43",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Azerbaijan",
+      "Alpha2": "AZ",
+      "Alpha3": "AZE",
+      "PhoneCode": "994",
+      "Currency": "Azerbaijanian Manat",
+      "CurrencyCode": "AZN"
+   },   
+   {￼
+      "Name": "Bahamas",
+      "Alpha2": "BS",
+      "Alpha3": "BHS",
+      "PhoneCode": "1-242",
+      "Currency": "Bahamian Dollar",
+      "CurrencyCode": "BSD"
+   },   
+   {￼
+      "Name": "Bahrain",
+      "Alpha2": "BH",
+      "Alpha3": "BHR",
+      "PhoneCode": "973",
+      "Currency": "Bahraini Dinar",
+      "CurrencyCode": "BHD"
+   },   
+   {￼
+      "Name": "Bangladesh",
+      "Alpha2": "BD",
+      "Alpha3": "BGD",
+      "PhoneCode": "880",
+      "Currency": "Taka",
+      "CurrencyCode": "BDT"
+   },   
+   {￼
+      "Name": "Barbados",
+      "Alpha2": "BB",
+      "Alpha3": "BRB",
+      "PhoneCode": "1-246",
+      "Currency": "Barbados Dollar",
+      "CurrencyCode": "BBD"
+   },   
+   {￼
+      "Name": "Belarus",
+      "Alpha2": "BY",
+      "Alpha3": "BLR",
+      "PhoneCode": "375",
+      "Currency": "Belarussian Ruble",
+      "CurrencyCode": "BYN"
+   },   
+   {￼
+      "Name": "Belgium",
+      "Alpha2": "BE",
+      "Alpha3": "BEL",
+      "PhoneCode": "32",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Belize",
+      "Alpha2": "BZ",
+      "Alpha3": "BLZ",
+      "PhoneCode": "501",
+      "Currency": "Belize Dollar",
+      "CurrencyCode": "BZD"
+   },   
+   {￼
+      "Name": "Benin",
+      "Alpha2": "BJ",
+      "Alpha3": "BEN",
+      "PhoneCode": "229",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Bermuda",
+      "Alpha2": "BM",
+      "Alpha3": "BMU",
+      "PhoneCode": "1-441",
+      "Currency": "Bermudian Dollar",
+      "CurrencyCode": "BMD"
+   },   
+   {￼
+      "Name": "Bhutan",
+      "Alpha2": "BT",
+      "Alpha3": "BTN",
+      "PhoneCode": "975",
+      "Currency": "Ngultrum",
+      "CurrencyCode": "BTN, INR"
+   },   
+   {￼
+      "Name": "Bolivia",
+      "Alpha2": "BO",
+      "Alpha3": "BOL",
+      "PhoneCode": "591",
+      "Currency": "Boliviano, Mvdol",
+      "CurrencyCode": "BOB, BOV"
+   },   
+   {￼
+      "Name": "Bosnia and Herzegovina",
+      "Alpha2": "BA",
+      "Alpha3": "BIH",
+      "PhoneCode": "387",
+      "Currency": "US Dollar, Convertible Mark",
+      "CurrencyCode": "USD, BAM"
+   },   
+   {￼
+      "Name": "Botswana",
+      "Alpha2": "BW",
+      "Alpha3": "BWA",
+      "PhoneCode": "267",
+      "Currency": "Pula",
+      "CurrencyCode": "BWP"
+   },   
+   {￼
+      "Name": "Bouvet Island",
+      "Alpha2": "BV",
+      "Alpha3": "BVT",
+      "PhoneCode": "",
+      "Currency": "Norwegian Krone",
+      "CurrencyCode": "NOK"
+   },   
+   {￼
+      "Name": "Brazil",
+      "Alpha2": "BR",
+      "Alpha3": "BRA",
+      "PhoneCode": "55",
+      "Currency": "Brazilian Real",
+      "CurrencyCode": "BRL"
+   },   
+   {￼
+      "Name": "British Virgin Islands",
+      "Alpha2": "VG",
+      "Alpha3": "VGB",
+      "PhoneCode": "246",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "British Indian Ocean Territory",
+      "Alpha2": "IO",
+      "Alpha3": "IOT",
+      "PhoneCode": "1-284",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Brunei Darussalam",
+      "Alpha2": "BN",
+      "Alpha3": "BRN",
+      "PhoneCode": "673",
+      "Currency": "Brunei Dollar",
+      "CurrencyCode": "BND"
+   },   
+   {￼
+      "Name": "Bulgaria",
+      "Alpha2": "BG",
+      "Alpha3": "BGR",
+      "PhoneCode": "359",
+      "Currency": "Bulgarian Lev",
+      "CurrencyCode": "BGN"
+   },   
+   {￼
+      "Name": "Burkina Faso",
+      "Alpha2": "BF",
+      "Alpha3": "BFA",
+      "PhoneCode": "226",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Burundi",
+      "Alpha2": "BI",
+      "Alpha3": "BDI",
+      "PhoneCode": "257",
+      "Currency": "Burundi Franc",
+      "CurrencyCode": "BIF"
+   },   
+   {￼
+      "Name": "Cambodia",
+      "Alpha2": "KH",
+      "Alpha3": "KHM",
+      "PhoneCode": "855",
+      "Currency": "Riel",
+      "CurrencyCode": "KHR"
+   },   
+   {￼
+      "Name": "Cameroon",
+      "Alpha2": "CM",
+      "Alpha3": "CMR",
+      "PhoneCode": "237",
+      "Currency": "CFA Franc BEAC",
+      "CurrencyCode": "XAF"
+   },   
+   {￼
+      "Name": "Canada",
+      "Alpha2": "CA",
+      "Alpha3": "CAN",
+      "PhoneCode": "1",
+      "Currency": "Canadian Dollar",
+      "CurrencyCode": "CAD"
+   },   
+   {￼
+      "Name": "Cape Verde",
+      "Alpha2": "CV",
+      "Alpha3": "CPV",
+      "PhoneCode": "238",
+      "Currency": "Cabo Verde Escudo",
+      "CurrencyCode": "CVE"
+   },   
+   {￼
+      "Name": "Cayman Islands ",
+      "Alpha2": "KY",
+      "Alpha3": "CYM",
+      "PhoneCode": "1-345",
+      "Currency": "Cayman Islands Dollar",
+      "CurrencyCode": "KYD"
+   },   
+   {￼
+      "Name": "Central African Republic",
+      "Alpha2": "CF",
+      "Alpha3": "CAF",
+      "PhoneCode": "236",
+      "Currency": "CFA Franc BEAC",
+      "CurrencyCode": "XAF"
+   },   
+   {￼
+      "Name": "Chad",
+      "Alpha2": "TD",
+      "Alpha3": "TCD",
+      "PhoneCode": "235",
+      "Currency": "CFA Franc BEAC",
+      "CurrencyCode": "XAF"
+   },   
+   {￼
+      "Name": "Chile",
+      "Alpha2": "CL",
+      "Alpha3": "CHL",
+      "PhoneCode": "56",
+      "Currency": "Chilean Peso,  Unidad de Fomento",
+      "CurrencyCode": "CLP, CLF"
+   },   
+   {￼
+      "Name": "China",
+      "Alpha2": "CN",
+      "Alpha3": "CHN",
+      "PhoneCode": "86",
+      "Currency": "Yuan Renminbi",
+      "CurrencyCode": "CNY"
+   },   
+   {￼
+      "Name": "Hong Kong, SAR China",
+      "Alpha2": "HK",
+      "Alpha3": "HKG",
+      "PhoneCode": "852",
+      "Currency": "Hong Kong Dollar",
+      "CurrencyCode": "HKD"
+   },   
+   {￼
+      "Name": "Macao, SAR China",
+      "Alpha2": "MO",
+      "Alpha3": "MAC",
+      "PhoneCode": "853",
+      "Currency": "Pataca",
+      "CurrencyCode": "MOP"
+   },   
+   {￼
+      "Name": "Christmas Island",
+      "Alpha2": "CX",
+      "Alpha3": "CXR",
+      "PhoneCode": "61",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Cocos (Keeling) Islands",
+      "Alpha2": "CC",
+      "Alpha3": "CCK",
+      "PhoneCode": "61",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Colombia",
+      "Alpha2": "CO",
+      "Alpha3": "COL",
+      "PhoneCode": "57",
+      "Currency": "Colombian Peso, Unidad de Valor Real",
+      "CurrencyCode": "COU,COP"
+   },   
+   {￼
+      "Name": "Comoros",
+      "Alpha2": "KM",
+      "Alpha3": "COM",
+      "PhoneCode": "269",
+      "Currency": "Comoro Franc",
+      "CurrencyCode": "KMF"
+   },   
+   {￼
+      "Name": "Congo (Brazzaville) ",
+      "Alpha2": "CG",
+      "Alpha3": "COG",
+      "PhoneCode": "242",
+      "Currency": "Congolese Franc, CFA Franc BEAC",
+      "CurrencyCode": "CDF, XAF"
+   },   
+   {￼
+      "Name": "Congo, (Kinshasa)",
+      "Alpha2": "CD",
+      "Alpha3": "COD",
+      "PhoneCode": "243",
+      "Currency": "Congolese Franc, CFA Franc BEAC",
+      "CurrencyCode": "CDF, XAF"
+   },   
+   {￼
+      "Name": "Cook Islands ",
+      "Alpha2": "CK",
+      "Alpha3": "COK",
+      "PhoneCode": "682",
+      "Currency": "New Zealand Dollar",
+      "CurrencyCode": "NZD"
+   },   
+   {￼
+      "Name": "Costa Rica",
+      "Alpha2": "CR",
+      "Alpha3": "CRI",
+      "PhoneCode": "506",
+      "Currency": "Costa Rican Colon",
+      "CurrencyCode": "CRC"
+   },   
+   {￼
+      "Name": "Côte d'Ivoire",
+      "Alpha2": "CI",
+      "Alpha3": "CIV",
+      "PhoneCode": "225",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Croatia",
+      "Alpha2": "HR",
+      "Alpha3": "HRV",
+      "PhoneCode": "385",
+      "Currency": "Kuna",
+      "CurrencyCode": "HRK"
+   },   
+   {￼
+      "Name": "Cuba",
+      "Alpha2": "CU",
+      "Alpha3": "CUB",
+      "PhoneCode": "53",
+      "Currency": "Cuban Peso, Peso Convertible",
+      "CurrencyCode": "CUP, CUC"
+   },   
+   {￼
+      "Name": "Curacao",
+      "Alpha2": "CW",
+      "Alpha3": "CUW",
+      "PhoneCode": "599",
+      "Currency": "Netherlands Antillean Guilder",
+      "CurrencyCode": "ANG"
+   },   
+   {￼
+      "Name": "Cyprus",
+      "Alpha2": "CY",
+      "Alpha3": "CYP",
+      "PhoneCode": "357",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Czech Republic",
+      "Alpha2": "CZ",
+      "Alpha3": "CZE",
+      "PhoneCode": "420",
+      "Currency": "Czech Koruna",
+      "CurrencyCode": "CZK"
+   },   
+   {￼
+      "Name": "Democratic Republic of the Congo",
+      "Alpha2": "CD",
+      "Alpha3": "COD",
+      "PhoneCode": "243",
+      "Currency": "Congolese Franc, CFA Franc BEAC",
+      "CurrencyCode": "CDF, XAF"
+   },   
+   {￼
+      "Name": "Denmark",
+      "Alpha2": "DK",
+      "Alpha3": "DNK",
+      "PhoneCode": "45",
+      "Currency": "Danish Krone",
+      "CurrencyCode": "DKK"
+   },   
+   {￼
+      "Name": "Djibouti",
+      "Alpha2": "DJ",
+      "Alpha3": "DJI",
+      "PhoneCode": "253",
+      "Currency": "Djibouti Franc",
+      "CurrencyCode": "DJF"
+   },   
+   {￼
+      "Name": "Dominica",
+      "Alpha2": "DM",
+      "Alpha3": "DMA",
+      "PhoneCode": "1-767",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Dominican Republic",
+      "Alpha2": "DO",
+      "Alpha3": "DOM",
+      "PhoneCode": "1-809, 1-829, 1-849",
+      "Currency": "Dominican Peso",
+      "CurrencyCode": "DOP"
+   },   
+   {￼
+      "Name": "Ecuador",
+      "Alpha2": "EC",
+      "Alpha3": "ECU",
+      "PhoneCode": "593",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Egypt",
+      "Alpha2": "EG",
+      "Alpha3": "EGY",
+      "PhoneCode": "20",
+      "Currency": "Egyptian Pound",
+      "CurrencyCode": "EGP"
+   },   
+   {￼
+      "Name": "El Salvador",
+      "Alpha2": "SV",
+      "Alpha3": "SLV",
+      "PhoneCode": "503",
+      "Currency": "El Salvador Colon, East Timor",
+      "CurrencyCode": "SVC, USD"
+   },   
+   {￼
+      "Name": "Equatorial Guinea",
+      "Alpha2": "GQ",
+      "Alpha3": "GNQ",
+      "PhoneCode": "240",
+      "Currency": "CFA Franc BEAC",
+      "CurrencyCode": "XAF"
+   },   
+   {￼
+      "Name": "Eritrea",
+      "Alpha2": "ER",
+      "Alpha3": "ERI",
+      "PhoneCode": "291",
+      "Currency": "Nakfa",
+      "CurrencyCode": "ERN"
+   },   
+   {￼
+      "Name": "Estonia",
+      "Alpha2": "EE",
+      "Alpha3": "EST",
+      "PhoneCode": "372",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Ethiopia",
+      "Alpha2": "ET",
+      "Alpha3": "ETH",
+      "PhoneCode": "251",
+      "Currency": "Ethiopian Birr",
+      "CurrencyCode": "ETB"
+   },   
+   {￼
+      "Name": "Falkland Islands (Malvinas) ",
+      "Alpha2": "FK",
+      "Alpha3": "FLK",
+      "PhoneCode": "500",
+      "Currency": "Falkland Islands Pound",
+      "CurrencyCode": "FKP"
+   },   
+   {￼
+      "Name": "Faroe Islands",
+      "Alpha2": "FO",
+      "Alpha3": "FRO",
+      "PhoneCode": "298",
+      "Currency": "Danish Krone",
+      "CurrencyCode": "DKK"
+   },   
+   {￼
+      "Name": "Fiji",
+      "Alpha2": "FJ",
+      "Alpha3": "FJI",
+      "PhoneCode": "679",
+      "Currency": "Fiji Dollar",
+      "CurrencyCode": "FJD"
+   },   
+   {￼
+      "Name": "Finland",
+      "Alpha2": "FI",
+      "Alpha3": "FIN",
+      "PhoneCode": "358",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "France",
+      "Alpha2": "FR",
+      "Alpha3": "FRA",
+      "PhoneCode": "33",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "French Guiana",
+      "Alpha2": "GF",
+      "Alpha3": "GUF",
+      "PhoneCode": "594",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "French Polynesia",
+      "Alpha2": "PF",
+      "Alpha3": "PYF",
+      "PhoneCode": "689",
+      "Currency": "CFP Franc",
+      "CurrencyCode": "XPF"
+   },   
+   {￼
+      "Name": "French Southern Territories",
+      "Alpha2": "TF",
+      "Alpha3": "ATF",
+      "PhoneCode": "",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Gabon",
+      "Alpha2": "GA",
+      "Alpha3": "GAB",
+      "PhoneCode": "241",
+      "Currency": "CFA Franc BEAC",
+      "CurrencyCode": "XAF"
+   },   
+   {￼
+      "Name": "Gambia",
+      "Alpha2": "GM",
+      "Alpha3": "GMB",
+      "PhoneCode": "220",
+      "Currency": "Dalasi",
+      "CurrencyCode": "GMD"
+   },   
+   {￼
+      "Name": "Georgia",
+      "Alpha2": "GE",
+      "Alpha3": "GEO",
+      "PhoneCode": "995",
+      "Currency": "Lari",
+      "CurrencyCode": "GEL"
+   },   
+   {￼
+      "Name": "Germany",
+      "Alpha2": "DE",
+      "Alpha3": "DEU",
+      "PhoneCode": "49",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Ghana",
+      "Alpha2": "GH",
+      "Alpha3": "GHA",
+      "PhoneCode": "233",
+      "Currency": "Ghana Cedi",
+      "CurrencyCode": "GHS"
+   },   
+   {￼
+      "Name": "Gibraltar ",
+      "Alpha2": "GI",
+      "Alpha3": "GIB",
+      "PhoneCode": "350",
+      "Currency": "Gibraltar Pound",
+      "CurrencyCode": "GIP"
+   },   
+   {￼
+      "Name": "Greece",
+      "Alpha2": "GR",
+      "Alpha3": "GRC",
+      "PhoneCode": "30",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Greenland",
+      "Alpha2": "GL",
+      "Alpha3": "GRL",
+      "PhoneCode": "299",
+      "Currency": "Danish Krone",
+      "CurrencyCode": "DKK"
+   },   
+   {￼
+      "Name": "Grenada",
+      "Alpha2": "GD",
+      "Alpha3": "GRD",
+      "PhoneCode": "1-473",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Guadeloupe",
+      "Alpha2": "GP",
+      "Alpha3": "GLP",
+      "PhoneCode": "590",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Guam",
+      "Alpha2": "GU",
+      "Alpha3": "GUM",
+      "PhoneCode": "1-671",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Guatemala",
+      "Alpha2": "GT",
+      "Alpha3": "GTM",
+      "PhoneCode": "502",
+      "Currency": "Quetzal",
+      "CurrencyCode": "GTQ"
+   },   
+   {￼
+      "Name": "Guernsey",
+      "Alpha2": "GG",
+      "Alpha3": "GGY",
+      "PhoneCode": "44-1481",
+      "Currency": "Pound Sterling",
+      "CurrencyCode": "GBP"
+   },   
+   {￼
+      "Name": "Guinea",
+      "Alpha2": "GN",
+      "Alpha3": "GIN",
+      "PhoneCode": "224",
+      "Currency": "Guinea Franc",
+      "CurrencyCode": "GNF"
+   },   
+   {￼
+      "Name": "Guinea-Bissau",
+      "Alpha2": "GW",
+      "Alpha3": "GNB",
+      "PhoneCode": "245",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Guyana",
+      "Alpha2": "GY",
+      "Alpha3": "GUY",
+      "PhoneCode": "592",
+      "Currency": "Guyana Dollar",
+      "CurrencyCode": "GYD"
+   },   
+   {￼
+      "Name": "Haiti",
+      "Alpha2": "HT",
+      "Alpha3": "HTI",
+      "PhoneCode": "509",
+      "Currency": "Gourde, US Dollar",
+      "CurrencyCode": "HTG, USD"
+   },   
+   {￼
+      "Name": "Heard and Mcdonald Islands",
+      "Alpha2": "HM",
+      "Alpha3": "HMD",
+      "PhoneCode": "",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Holy See (Vatican City State)",
+      "Alpha2": "VA",
+      "Alpha3": "VAT",
+      "PhoneCode": "379",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Honduras",
+      "Alpha2": "HN",
+      "Alpha3": "HND",
+      "PhoneCode": "504",
+      "Currency": "Lempira",
+      "CurrencyCode": "HNL"
+   },   
+   {￼
+      "Name": "Hungary",
+      "Alpha2": "HU",
+      "Alpha3": "HUN",
+      "PhoneCode": "36",
+      "Currency": "Forint",
+      "CurrencyCode": "HUF"
+   },   
+   {￼
+      "Name": "Iceland",
+      "Alpha2": "IS",
+      "Alpha3": "ISL",
+      "PhoneCode": "354",
+      "Currency": "Iceland Krona",
+      "CurrencyCode": "ISK"
+   },   
+   {￼
+      "Name": "India",
+      "Alpha2": "IN",
+      "Alpha3": "IND",
+      "PhoneCode": "91",
+      "Currency": "Indian Rupee",
+      "CurrencyCode": "INR"
+   },   
+   {￼
+      "Name": "Indonesia",
+      "Alpha2": "ID",
+      "Alpha3": "IDN",
+      "PhoneCode": "62",
+      "Currency": "Rupiah",
+      "CurrencyCode": "IDR"
+   },   
+   {￼
+      "Name": "Iran, Islamic Republic of",
+      "Alpha2": "IR",
+      "Alpha3": "IRN",
+      "PhoneCode": "98",
+      "Currency": "Iranian Rial",
+      "CurrencyCode": "IRR"
+   },   
+   {￼
+      "Name": "Iraq",
+      "Alpha2": "IQ",
+      "Alpha3": "IRQ",
+      "PhoneCode": "964",
+      "Currency": "Iraqi Dinar",
+      "CurrencyCode": "IQD"
+   },   
+   {￼
+      "Name": "Ireland",
+      "Alpha2": "IE",
+      "Alpha3": "IRL",
+      "PhoneCode": "353",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Isle of Man ",
+      "Alpha2": "IM",
+      "Alpha3": "IMN",
+      "PhoneCode": "44-1624",
+      "Currency": "Pound Sterling",
+      "CurrencyCode": "GBP"
+   },   
+   {￼
+      "Name": "Israel",
+      "Alpha2": "IL",
+      "Alpha3": "ISR",
+      "PhoneCode": "972",
+      "Currency": "New Israeli Sheqel",
+      "CurrencyCode": "ILS"
+   },   
+   {￼
+      "Name": "Italy",
+      "Alpha2": "IT",
+      "Alpha3": "ITA",
+      "PhoneCode": "39",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Jamaica",
+      "Alpha2": "JM",
+      "Alpha3": "JAM",
+      "PhoneCode": "1-876",
+      "Currency": "Jamaican Dollar",
+      "CurrencyCode": "JMD"
+   },   
+   {￼
+      "Name": "Japan",
+      "Alpha2": "JP",
+      "Alpha3": "JPN",
+      "PhoneCode": "81",
+      "Currency": "Yen",
+      "CurrencyCode": "JPY"
+   },   
+   {￼
+      "Name": "Jersey",
+      "Alpha2": "JE",
+      "Alpha3": "JEY",
+      "PhoneCode": "44-1534",
+      "Currency": "Pound Sterling",
+      "CurrencyCode": "GBP"
+   },   
+   {￼
+      "Name": "Jordan",
+      "Alpha2": "JO",
+      "Alpha3": "JOR",
+      "PhoneCode": "962",
+      "Currency": "Jordanian Dinar",
+      "CurrencyCode": "JOD"
+   },   
+   {￼
+      "Name": "Kazakhstan",
+      "Alpha2": "KZ",
+      "Alpha3": "KAZ",
+      "PhoneCode": "7",
+      "Currency": "Tenge",
+      "CurrencyCode": "KZT"
+   },   
+   {￼
+      "Name": "Kenya",
+      "Alpha2": "KE",
+      "Alpha3": "KEN",
+      "PhoneCode": "254",
+      "Currency": "Kenyan Shilling",
+      "CurrencyCode": "KES"
+   },   
+   {￼
+      "Name": "Kiribati",
+      "Alpha2": "KI",
+      "Alpha3": "KIR",
+      "PhoneCode": "686",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Korea (North)",
+      "Alpha2": "KP",
+      "Alpha3": "PRK",
+      "PhoneCode": "850",
+      "Currency": "North Korean Won",
+      "CurrencyCode": "KPW"
+   },   
+   {￼
+      "Name": "Korea (South)",
+      "Alpha2": "KR",
+      "Alpha3": "KOR",
+      "PhoneCode": "82",
+      "Currency": "Won",
+      "CurrencyCode": "KRW"
+   },   
+   {￼
+      "Name": "Kosovo",
+      "Alpha2": "XK",
+      "Alpha3": "XKX",
+      "PhoneCode": "383",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Kuwait",
+      "Alpha2": "KW",
+      "Alpha3": "KWT",
+      "PhoneCode": "965",
+      "Currency": "Kuwaiti Dinar",
+      "CurrencyCode": "KWD"
+   },   
+   {￼
+      "Name": "Kyrgyzstan",
+      "Alpha2": "KG",
+      "Alpha3": "KGZ",
+      "PhoneCode": "996",
+      "Currency": "Som",
+      "CurrencyCode": "KGS"
+   },   
+   {￼
+      "Name": "Lao PDR",
+      "Alpha2": "LA",
+      "Alpha3": "LAO",
+      "PhoneCode": "856",
+      "Currency": "Kip",
+      "CurrencyCode": "LAK"
+   },   
+   {￼
+      "Name": "Latvia",
+      "Alpha2": "LV",
+      "Alpha3": "LVA",
+      "PhoneCode": "371",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Lebanon",
+      "Alpha2": "LB",
+      "Alpha3": "LBN",
+      "PhoneCode": "961",
+      "Currency": "Lebanese Pound",
+      "CurrencyCode": "LBP"
+   },   
+   {￼
+      "Name": "Lesotho",
+      "Alpha2": "LS",
+      "Alpha3": "LSO",
+      "PhoneCode": "266",
+      "Currency": "Loti, Rand",
+      "CurrencyCode": "LSL, ZAR"
+   },   
+   {￼
+      "Name": "Liberia",
+      "Alpha2": "LR",
+      "Alpha3": "LBR",
+      "PhoneCode": "231",
+      "Currency": "Liberian Dollar",
+      "CurrencyCode": "LRD"
+   },   
+   {￼
+      "Name": "Libya",
+      "Alpha2": "LY",
+      "Alpha3": "LBY",
+      "PhoneCode": "218",
+      "Currency": "Libyan Dinar",
+      "CurrencyCode": "LYD"
+   },   
+   {￼
+      "Name": "Liechtenstein",
+      "Alpha2": "LI",
+      "Alpha3": "LIE",
+      "PhoneCode": "423",
+      "Currency": "Swiss Franc",
+      "CurrencyCode": "CHF"
+   },   
+   {￼
+      "Name": "Lithuania",
+      "Alpha2": "LT",
+      "Alpha3": "LTU",
+      "PhoneCode": "370",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Luxembourg",
+      "Alpha2": "LU",
+      "Alpha3": "LUX",
+      "PhoneCode": "352",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Macedonia, Republic of",
+      "Alpha2": "MK",
+      "Alpha3": "MKD",
+      "PhoneCode": "389",
+      "Currency": "Denar",
+      "CurrencyCode": "MKD"
+   },   
+   {￼
+      "Name": "Madagascar",
+      "Alpha2": "MG",
+      "Alpha3": "MDG",
+      "PhoneCode": "261",
+      "Currency": "Malagasy Ariary",
+      "CurrencyCode": "MGA"
+   },   
+   {￼
+      "Name": "Malawi",
+      "Alpha2": "MW",
+      "Alpha3": "MWI",
+      "PhoneCode": "265",
+      "Currency": "Kwacha",
+      "CurrencyCode": "MWK"
+   },   
+   {￼
+      "Name": "Malaysia",
+      "Alpha2": "MY",
+      "Alpha3": "MYS",
+      "PhoneCode": "60",
+      "Currency": "Malaysian Ringgit",
+      "CurrencyCode": "MYR"
+   },   
+   {￼
+      "Name": "Maldives",
+      "Alpha2": "MV",
+      "Alpha3": "MDV",
+      "PhoneCode": "960",
+      "Currency": "Rufiyaa",
+      "CurrencyCode": "MVR"
+   },   
+   {￼
+      "Name": "Mali",
+      "Alpha2": "ML",
+      "Alpha3": "MLI",
+      "PhoneCode": "223",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Malta",
+      "Alpha2": "MT",
+      "Alpha3": "MLT",
+      "PhoneCode": "356",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Marshall Islands",
+      "Alpha2": "MH",
+      "Alpha3": "MHL",
+      "PhoneCode": "692",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Martinique",
+      "Alpha2": "MQ",
+      "Alpha3": "MTQ",
+      "PhoneCode": "596",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Mauritania",
+      "Alpha2": "MR",
+      "Alpha3": "MRT",
+      "PhoneCode": "222",
+      "Currency": "Ouguiya",
+      "CurrencyCode": "MRU"
+   },   
+   {￼
+      "Name": "Mauritius",
+      "Alpha2": "MU",
+      "Alpha3": "MUS",
+      "PhoneCode": "230",
+      "Currency": "Mauritius Rupee",
+      "CurrencyCode": "MUR"
+   },   
+   {￼
+      "Name": "Mayotte",
+      "Alpha2": "YT",
+      "Alpha3": "MYT",
+      "PhoneCode": "262",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Mexico",
+      "Alpha2": "MX",
+      "Alpha3": "MEX",
+      "PhoneCode": "52",
+      "Currency": "Mexican Peso ,Mexican Unidad de Inversion (UDI)",
+      "CurrencyCode": "MXN,MXV"
+   },   
+   {￼
+      "Name": "Micronesia, Federated States of",
+      "Alpha2": "FM",
+      "Alpha3": "FSM",
+      "PhoneCode": "691",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Moldova",
+      "Alpha2": "MD",
+      "Alpha3": "MDA",
+      "PhoneCode": "373",
+      "Currency": "Moldovan Leu",
+      "CurrencyCode": "MDL"
+   },   
+   {￼
+      "Name": "Monaco",
+      "Alpha2": "MC",
+      "Alpha3": "MCO",
+      "PhoneCode": "377",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Mongolia",
+      "Alpha2": "MN",
+      "Alpha3": "MNG",
+      "PhoneCode": "976",
+      "Currency": "Tugrik",
+      "CurrencyCode": "MNT"
+   },   
+   {￼
+      "Name": "Montenegro",
+      "Alpha2": "ME",
+      "Alpha3": "MNE",
+      "PhoneCode": "382",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Montserrat",
+      "Alpha2": "MS",
+      "Alpha3": "MSR",
+      "PhoneCode": "1-664",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Morocco",
+      "Alpha2": "MA",
+      "Alpha3": "MAR",
+      "PhoneCode": "212",
+      "Currency": "Moroccan Dirham",
+      "CurrencyCode": "MAD"
+   },   
+   {￼
+      "Name": "Mozambique",
+      "Alpha2": "MZ",
+      "Alpha3": "MOZ",
+      "PhoneCode": "258",
+      "Currency": "Mozambique Metical",
+      "CurrencyCode": "MZN"
+   },   
+   {￼
+      "Name": "Myanmar",
+      "Alpha2": "MM",
+      "Alpha3": "MMR",
+      "PhoneCode": "95",
+      "Currency": "Kyat",
+      "CurrencyCode": "MMK"
+   },   
+   {￼
+      "Name": "Namibia",
+      "Alpha2": "NA",
+      "Alpha3": "NAM",
+      "PhoneCode": "264",
+      "Currency": "Namibia Dollar, Rand",
+      "CurrencyCode": "NAD, ZAR"
+   },   
+   {￼
+      "Name": "Nauru",
+      "Alpha2": "NR",
+      "Alpha3": "NRU",
+      "PhoneCode": "674",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Nepal",
+      "Alpha2": "NP",
+      "Alpha3": "NPL",
+      "PhoneCode": "977",
+      "Currency": "Nepalese Rupee",
+      "CurrencyCode": "NPR"
+   },   
+   {￼
+      "Name": "Netherlands",
+      "Alpha2": "NL",
+      "Alpha3": "NLD",
+      "PhoneCode": "31",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Netherlands Antilles",
+      "Alpha2": "AN",
+      "Alpha3": "ANT",
+      "PhoneCode": "599",
+      "Currency": "Guilder Antilles",
+      "CurrencyCode": "ANG"
+   },   
+   {￼
+      "Name": "New Caledonia",
+      "Alpha2": "NC",
+      "Alpha3": "NCL",
+      "PhoneCode": "687",
+      "Currency": "CFP Franc",
+      "CurrencyCode": "XPF"
+   },   
+   {￼
+      "Name": "New Zealand",
+      "Alpha2": "NZ",
+      "Alpha3": "NZL",
+      "PhoneCode": "64",
+      "Currency": "New Zealand Dollar",
+      "CurrencyCode": "NZD"
+   },   
+   {￼
+      "Name": "Nicaragua",
+      "Alpha2": "NI",
+      "Alpha3": "NIC",
+      "PhoneCode": "505",
+      "Currency": "Cordoba Oro",
+      "CurrencyCode": "NIO"
+   },   
+   {￼
+      "Name": "Niger",
+      "Alpha2": "NE",
+      "Alpha3": "NER",
+      "PhoneCode": "227",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Nigeria",
+      "Alpha2": "NG",
+      "Alpha3": "NGA",
+      "PhoneCode": "234",
+      "Currency": "Naira",
+      "CurrencyCode": "NGN"
+   },   
+   {￼
+      "Name": "Niue ",
+      "Alpha2": "NU",
+      "Alpha3": "NIU",
+      "PhoneCode": "683",
+      "Currency": "New Zealand Dollar",
+      "CurrencyCode": "NZD"
+   },   
+   {￼
+      "Name": "Norfolk Island",
+      "Alpha2": "NF",
+      "Alpha3": "NFK",
+      "PhoneCode": "",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Northern Mariana Islands",
+      "Alpha2": "MP",
+      "Alpha3": "MNP",
+      "PhoneCode": "1-670",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Norway",
+      "Alpha2": "NO",
+      "Alpha3": "NOR",
+      "PhoneCode": "47",
+      "Currency": "Norwegian Krone",
+      "CurrencyCode": "NOK"
+   },   
+   {￼
+      "Name": "Oman",
+      "Alpha2": "OM",
+      "Alpha3": "OMN",
+      "PhoneCode": "968",
+      "Currency": "Rial Omani",
+      "CurrencyCode": "OMR"
+   },   
+   {￼
+      "Name": "Pakistan",
+      "Alpha2": "PK",
+      "Alpha3": "PAK",
+      "PhoneCode": "92",
+      "Currency": "Pakistan Rupee",
+      "CurrencyCode": "PKR"
+   },   
+   {￼
+      "Name": "Palau",
+      "Alpha2": "PW",
+      "Alpha3": "PLW",
+      "PhoneCode": "680",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Palestinian Territory",
+      "Alpha2": "PS",
+      "Alpha3": "PSE",
+      "PhoneCode": "970",
+      "Currency": "SHEKEL",
+      "CurrencyCode": "ILS"
+   },   
+   {￼
+      "Name": "Panama",
+      "Alpha2": "PA",
+      "Alpha3": "PAN",
+      "PhoneCode": "507",
+      "Currency": "Balboa, US Dollar",
+      "CurrencyCode": "PAB, USD"
+   },   
+   {￼
+      "Name": "Papua New Guinea",
+      "Alpha2": "PG",
+      "Alpha3": "PNG",
+      "PhoneCode": "675",
+      "Currency": "Kina",
+      "CurrencyCode": "PGK"
+   },   
+   {￼
+      "Name": "Paraguay",
+      "Alpha2": "PY",
+      "Alpha3": "PRY",
+      "PhoneCode": "595",
+      "Currency": "Guarani",
+      "CurrencyCode": "PYG"
+   },   
+   {￼
+      "Name": "Peru",
+      "Alpha2": "PE",
+      "Alpha3": "PER",
+      "PhoneCode": "51",
+      "Currency": "Nuevo Sol",
+      "CurrencyCode": "PEN"
+   },   
+   {￼
+      "Name": "Philippines",
+      "Alpha2": "PH",
+      "Alpha3": "PHL",
+      "PhoneCode": "63",
+      "Currency": "Philippine Peso",
+      "CurrencyCode": "PHP"
+   },   
+   {￼
+      "Name": "Pitcairn",
+      "Alpha2": "PN",
+      "Alpha3": "PCN",
+      "PhoneCode": "64",
+      "Currency": "New Zealand Dollar",
+      "CurrencyCode": "NZD"
+   },   
+   {￼
+      "Name": "Poland",
+      "Alpha2": "PL",
+      "Alpha3": "POL",
+      "PhoneCode": "48",
+      "Currency": "Zloty",
+      "CurrencyCode": "PLN"
+   },   
+   {￼
+      "Name": "Portugal",
+      "Alpha2": "PT",
+      "Alpha3": "PRT",
+      "PhoneCode": "351",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Puerto Rico",
+      "Alpha2": "PR",
+      "Alpha3": "PRI",
+      "PhoneCode": "1-787, 1-939",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Qatar",
+      "Alpha2": "QA",
+      "Alpha3": "QAT",
+      "PhoneCode": "974",
+      "Currency": "Qatari Rial",
+      "CurrencyCode": "QAR"
+   },   
+   {￼
+      "Name": "Réunion",
+      "Alpha2": "RE",
+      "Alpha3": "REU",
+      "PhoneCode": "262",
+      "Currency": "EURO",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Romania",
+      "Alpha2": "RO",
+      "Alpha3": "ROU",
+      "PhoneCode": "40",
+      "Currency": "Romanian Leu",
+      "CurrencyCode": "RON"
+   },   
+   {￼
+      "Name": "Russian Federation",
+      "Alpha2": "RU",
+      "Alpha3": "RUS",
+      "PhoneCode": "7",
+      "Currency": "Russian Ruble",
+      "CurrencyCode": "RUB"
+   },   
+   {￼
+      "Name": "Rwanda",
+      "Alpha2": "RW",
+      "Alpha3": "RWA",
+      "PhoneCode": "250",
+      "Currency": "Rwanda Franc",
+      "CurrencyCode": "RWF"
+   },   
+   {￼
+      "Name": "Saint-Barthélemy",
+      "Alpha2": "BL",
+      "Alpha3": "BLM",
+      "PhoneCode": "590",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Saint Helena",
+      "Alpha2": "SH",
+      "Alpha3": "SHN",
+      "PhoneCode": "290",
+      "Currency": "Saint Helena Pound",
+      "CurrencyCode": "SHP"
+   },   
+   {￼
+      "Name": "Saint Kitts and Nevis",
+      "Alpha2": "KN",
+      "Alpha3": "KNA",
+      "PhoneCode": "1-869",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Saint Lucia",
+      "Alpha2": "LC",
+      "Alpha3": "LCA",
+      "PhoneCode": "1-758",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Saint-Martin (French part)",
+      "Alpha2": "MF",
+      "Alpha3": "MAF",
+      "PhoneCode": "590",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Saint Pierre and Miquelon ",
+      "Alpha2": "PM",
+      "Alpha3": "SPM",
+      "PhoneCode": "508",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Saint Vincent and Grenadines",
+      "Alpha2": "VC",
+      "Alpha3": "VCT",
+      "PhoneCode": "1-784",
+      "Currency": "East Caribbean Dollar",
+      "CurrencyCode": "XCD"
+   },   
+   {￼
+      "Name": "Samoa",
+      "Alpha2": "WS",
+      "Alpha3": "WSM",
+      "PhoneCode": "685",
+      "Currency": "Tala",
+      "CurrencyCode": "WST"
+   },   
+   {￼
+      "Name": "San Marino",
+      "Alpha2": "SM",
+      "Alpha3": "SMR",
+      "PhoneCode": "378",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Sao Tome and Principe",
+      "Alpha2": "ST",
+      "Alpha3": "STP",
+      "PhoneCode": "239",
+      "Currency": "Dobra",
+      "CurrencyCode": "STN"
+   },   
+   {￼
+      "Name": "Saudi Arabia",
+      "Alpha2": "SA",
+      "Alpha3": "SAU",
+      "PhoneCode": "966",
+      "Currency": "Saudi Riyal",
+      "CurrencyCode": "SAR"
+   },   
+   {￼
+      "Name": "Senegal",
+      "Alpha2": "SN",
+      "Alpha3": "SEN",
+      "PhoneCode": "221",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Serbia",
+      "Alpha2": "RS",
+      "Alpha3": "SRB",
+      "PhoneCode": "381",
+      "Currency": "Serbian Dinar",
+      "CurrencyCode": "RSD"
+   },   
+   {￼
+      "Name": "Seychelles",
+      "Alpha2": "SC",
+      "Alpha3": "SYC",
+      "PhoneCode": "248",
+      "Currency": "Seychelles Rupee",
+      "CurrencyCode": "SCR"
+   },   
+   {￼
+      "Name": "Sierra Leone",
+      "Alpha2": "SL",
+      "Alpha3": "SLE",
+      "PhoneCode": "232",
+      "Currency": "Leone",
+      "CurrencyCode": "SLL"
+   },   
+   {￼
+      "Name": "Singapore",
+      "Alpha2": "SG",
+      "Alpha3": "SGP",
+      "PhoneCode": "65",
+      "Currency": "Singapore Dollar",
+      "CurrencyCode": "SGD"
+   },   
+   {￼
+      "Name": "Sint Maarten",
+      "Alpha2": "sx",
+      "Alpha3": "sxm",
+      "PhoneCode": "1-721",
+      "Currency": "Netherlands Antillean Guilder",
+      "CurrencyCode": "ANG"
+   },   
+   {￼
+      "Name": "Slovakia",
+      "Alpha2": "SK",
+      "Alpha3": "SVK",
+      "PhoneCode": "421",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Slovenia",
+      "Alpha2": "SI",
+      "Alpha3": "SVN",
+      "PhoneCode": "386",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Solomon Islands",
+      "Alpha2": "SB",
+      "Alpha3": "SLB",
+      "PhoneCode": "677",
+      "Currency": "Solomon Islands Dollar",
+      "CurrencyCode": "SBD"
+   },   
+   {￼
+      "Name": "Somalia",
+      "Alpha2": "SO",
+      "Alpha3": "SOM",
+      "PhoneCode": "252",
+      "Currency": "Somali Shilling",
+      "CurrencyCode": "SOS"
+   },   
+   {￼
+      "Name": "South Africa",
+      "Alpha2": "ZA",
+      "Alpha3": "ZAF",
+      "PhoneCode": "27",
+      "Currency": "Rand",
+      "CurrencyCode": "ZAR"
+   },   
+   {￼
+      "Name": "South Georgia and the South Sandwich Islands",
+      "Alpha2": "GS",
+      "Alpha3": "SGS",
+      "PhoneCode": "82",
+      "Currency": "No universal currency",
+      "CurrencyCode": ""
+   },   
+   {￼
+      "Name": "South Sudan",
+      "Alpha2": "SS",
+      "Alpha3": "SSD",
+      "PhoneCode": "211",
+      "Currency": "South Sudanese Pound",
+      "CurrencyCode": "SSP"
+   },   
+   {￼
+      "Name": "Spain",
+      "Alpha2": "ES",
+      "Alpha3": "ESP",
+      "PhoneCode": "34",
+      "Currency": "Euro",
+      "CurrencyCode": "EUR"
+   },   
+   {￼
+      "Name": "Sri Lanka",
+      "Alpha2": "LK",
+      "Alpha3": "LKA",
+      "PhoneCode": "94",
+      "Currency": "Sri Lanka Rupee",
+      "CurrencyCode": "LKR"
+   },   
+   {￼
+      "Name": "Sudan",
+      "Alpha2": "SD",
+      "Alpha3": "SDN",
+      "PhoneCode": "249",
+      "Currency": "Sudanese Pound",
+      "CurrencyCode": "SDG"
+   },   
+   {￼
+      "Name": "Suriname",
+      "Alpha2": "SR",
+      "Alpha3": "SUR",
+      "PhoneCode": "597",
+      "Currency": "Surinam Dollar",
+      "CurrencyCode": "SRD"
+   },   
+   {￼
+      "Name": "Svalbard and Jan Mayen Islands ",
+      "Alpha2": "SJ",
+      "Alpha3": "SJM",
+      "PhoneCode": "47",
+      "Currency": "Norwegian Krone",
+      "CurrencyCode": "NOK"
+   },   
+   {￼
+      "Name": "Swaziland",
+      "Alpha2": "SZ",
+      "Alpha3": "SWZ",
+      "PhoneCode": "268",
+      "Currency": "Lilangeni",
+      "CurrencyCode": "SZL"
+   },   
+   {￼
+      "Name": "Sweden",
+      "Alpha2": "SE",
+      "Alpha3": "SWE",
+      "PhoneCode": "46",
+      "Currency": "Swedish Krona",
+      "CurrencyCode": "SEK"
+   },   
+   {￼
+      "Name": "Switzerland",
+      "Alpha2": "CH",
+      "Alpha3": "CHE",
+      "PhoneCode": "41",
+      "Currency": "WIR Euro,Swiss Franc,Swiss Franc",
+      "CurrencyCode": "CHE,CHF,CHW"
+   },   
+   {￼
+      "Name": "Syrian Arab Republic (Syria)",
+      "Alpha2": "SY",
+      "Alpha3": "SYR",
+      "PhoneCode": "963",
+      "Currency": "Syrian Pound",
+      "CurrencyCode": "SYP"
+   },   
+   {￼
+      "Name": "Taiwan, Republic of China ",
+      "Alpha2": "TW",
+      "Alpha3": "TWN",
+      "PhoneCode": "886",
+      "Currency": "New Taiwan Dollar",
+      "CurrencyCode": "TWD"
+   },   
+   {￼
+      "Name": "Tajikistan",
+      "Alpha2": "TJ",
+      "Alpha3": "TJK",
+      "PhoneCode": "992",
+      "Currency": "Somoni",
+      "CurrencyCode": "TJS"
+   },   
+   {￼
+      "Name": "Tanzania, United Republic of ",
+      "Alpha2": "TZ",
+      "Alpha3": "TZA",
+      "PhoneCode": "255",
+      "Currency": "Tanzanian Shilling",
+      "CurrencyCode": "TZS"
+   },   
+   {￼
+      "Name": "Thailand",
+      "Alpha2": "TH",
+      "Alpha3": "THA",
+      "PhoneCode": "66",
+      "Currency": "Baht",
+      "CurrencyCode": "THB"
+   },   
+   {￼
+      "Name": "Timor-Leste",
+      "Alpha2": "TL",
+      "Alpha3": "TLS",
+      "PhoneCode": "670",
+      "Currency": "US dollar ",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Togo",
+      "Alpha2": "TG",
+      "Alpha3": "TGO",
+      "PhoneCode": "228",
+      "Currency": "CFA Franc BCEAO",
+      "CurrencyCode": "XOF"
+   },   
+   {￼
+      "Name": "Tokelau ",
+      "Alpha2": "TK",
+      "Alpha3": "TKL",
+      "PhoneCode": "690",
+      "Currency": "New Zealand Dollar",
+      "CurrencyCode": "NZD"
+   },   
+   {￼
+      "Name": "Tonga",
+      "Alpha2": "TO",
+      "Alpha3": "TON",
+      "PhoneCode": "676",
+      "Currency": "Pa’anga",
+      "CurrencyCode": "TOP"
+   },   
+   {￼
+      "Name": "Trinidad and Tobago",
+      "Alpha2": "TT",
+      "Alpha3": "TTO",
+      "PhoneCode": "1-868",
+      "Currency": "Trinidad and Tobago Dollar",
+      "CurrencyCode": "TTD"
+   },   
+   {￼
+      "Name": "Tunisia",
+      "Alpha2": "TN",
+      "Alpha3": "TUN",
+      "PhoneCode": "216",
+      "Currency": "Tunisian Dinar",
+      "CurrencyCode": "TND"
+   },   
+   {￼
+      "Name": "Turkey",
+      "Alpha2": "TR",
+      "Alpha3": "TUR",
+      "PhoneCode": "90",
+      "Currency": "Turkish Lira",
+      "CurrencyCode": "TRY"
+   },   
+   {￼
+      "Name": "Turkmenistan",
+      "Alpha2": "TM",
+      "Alpha3": "TKM",
+      "PhoneCode": "993",
+      "Currency": "Turkmenistan New Manat",
+      "CurrencyCode": "TMT"
+   },   
+   {￼
+      "Name": "Turks and Caicos Islands ",
+      "Alpha2": "TC",
+      "Alpha3": "TCA",
+      "PhoneCode": "1-649",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Tuvalu",
+      "Alpha2": "TV",
+      "Alpha3": "TUV",
+      "PhoneCode": "688",
+      "Currency": "Australian Dollar",
+      "CurrencyCode": "AUD"
+   },   
+   {￼
+      "Name": "Virgin Islands, US",
+      "Alpha2": "VI",
+      "Alpha3": "VIR",
+      "PhoneCode": "1-340",
+      "Currency": "DOLLAR (USD)",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Uganda",
+      "Alpha2": "UG",
+      "Alpha3": "UGA",
+      "PhoneCode": "256",
+      "Currency": "Uganda Shilling",
+      "CurrencyCode": "UGX"
+   },   
+   {￼
+      "Name": "Ukraine",
+      "Alpha2": "UA",
+      "Alpha3": "UKR",
+      "PhoneCode": "380",
+      "Currency": "Hryvnia",
+      "CurrencyCode": "UAH"
+   },   
+   {￼
+      "Name": "United Arab Emirates",
+      "Alpha2": "AE",
+      "Alpha3": "ARE",
+      "PhoneCode": "971",
+      "Currency": "UAE Dirham",
+      "CurrencyCode": "AED"
+   },   
+   {￼
+      "Name": "United Kingdom",
+      "Alpha2": "GB",
+      "Alpha3": "GBR",
+      "PhoneCode": "44",
+      "Currency": "Pound Sterling",
+      "CurrencyCode": "GBP"
+   },   
+   {￼
+      "Name": "United States of America",
+      "Alpha2": "US",
+      "Alpha3": "USA",
+      "PhoneCode": "1",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "US Minor Outlying Islands",
+      "Alpha2": "UM",
+      "Alpha3": "UMI",
+      "PhoneCode": "1",
+      "Currency": "US Dollar",
+      "CurrencyCode": "USD"
+   },   
+   {￼
+      "Name": "Uruguay",
+      "Alpha2": "UY",
+      "Alpha3": "URY",
+      "PhoneCode": "598",
+      "Currency": "US Dollar (Next day), Uruguay Peso en Unidades Indexadas (URUIURUI)",
+      "CurrencyCode": "USN, UYI"
+   },   
+   {￼
+      "Name": "Uzbekistan",
+      "Alpha2": "UZ",
+      "Alpha3": "UZB",
+      "PhoneCode": "998",
+      "Currency": "Peso Uruguayo",
+      "CurrencyCode": "UYU"
+   },   
+   {￼
+      "Name": "Vanuatu",
+      "Alpha2": "VU",
+      "Alpha3": "VUT",
+      "PhoneCode": "678",
+      "Currency": "Uzbekistan Sum",
+      "CurrencyCode": "UZS"
+   },   
+   {￼
+      "Name": "Venezuela (Bolivarian Republic)",
+      "Alpha2": "VE",
+      "Alpha3": "VEN",
+      "PhoneCode": "58",
+      "Currency": "Vatu, Bolivar",
+      "CurrencyCode": "VUV, VEF"
+   },   
+   {￼
+      "Name": "Viet Nam",
+      "Alpha2": "VN",
+      "Alpha3": "VNM",
+      "PhoneCode": "84",
+      "Currency": "Dong",
+      "CurrencyCode": "VND"
+   },   
+   {￼
+      "Name": "Wallis and Futuna Islands ",
+      "Alpha2": "WF",
+      "Alpha3": "WLF",
+      "PhoneCode": "681",
+      "Currency": "CFP Franc",
+      "CurrencyCode": "XPF"
+   },   
+   {￼
+      "Name": "Western Sahara ",
+      "Alpha2": "EH",
+      "Alpha3": "ESH",
+      "PhoneCode": "212",
+      "Currency": "Moroccan Dirham",
+      "CurrencyCode": "MAD"
+   },   
+   {￼
+      "Name": "Yemen",
+      "Alpha2": "YE",
+      "Alpha3": "YEM",
+      "PhoneCode": "967",
+      "Currency": "Yemeni Rial",
+      "CurrencyCode": "YER"
+   },   
+   {￼
+      "Name": "Zambia",
+      "Alpha2": "ZM",
+      "Alpha3": "ZMB",
+      "PhoneCode": "260",
+      "Currency": "Zambian Kwacha",
+      "CurrencyCode": "ZMW"
+   },   
+   {￼
+      "Name": "Zimbabwe",
+      "Alpha2": "ZW",
+      "Alpha3": "ZWE",
+      "PhoneCode": "263",
+      "Currency": "Zimbabwe Dollar",
+      "CurrencyCode": "ZWL"
+   }
+]
